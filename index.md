@@ -1,6 +1,6 @@
 Lonely Valley is a 7 Days to Die multiplayer server dedicated to PvE play. It is hosted on a dedicated server in [Online.net](https://online.net/en) datacentre [DC3](https://www.scaleway.com/en/pdf/scaleway-dc3.pdf) near Paris, France. Fast connectivity, octa-core processor and a large RAM allocation helps to maintain a pleasant gaming experience.
 
-The server has a variety of mods and facilities keeping the game experience tuned to the needs of PvE players. It is designated as a **Quiet Server** where the players respect each others right to play without interference. Find out more about server [settings and mods](./settings.md), learn the [commands](./commands.md) or get in touch on [Discord](https://discord.gg/TyKhzp3).
+The server has a variety of mods and facilities keeping the game experience tuned to the needs of PvE players. It is designated as a **Quiet Server** where the players respect each others right to play without interference. Find out more about server [settings and mods](./settings.md), learn the [commands](./commands.md) or get in touch on [Discord](https://discord.gg/3774Dhe).
 
 ## Server Rules
 The rules described below must be followed by every player. We try to maintain a pleasant gaming environment for everyone, without the need for constant intrusive moderation. This means that any failure to adhere to Server Rules will result in a ban.  The decision to exclude a player rests with the server owner and admins, and cannot be disputed. Please remember this and do not complain when the hammer lands on you.
@@ -30,4 +30,4 @@ The rules described below must be followed by every player. We try to maintain a
 6. Do not build in reset zones, you will lose everything at the next reset.
 
 ## Support or Contact
-Have a question of wish to report a problem? Drop us a message on [Discord](https://discord.gg/TyKhzp3) and we’ll help you sort it out.
+Have a question of wish to report a problem? Drop us a message on [Discord](https://discord.gg/3774Dhe) and we’ll help you sort it out.
