@@ -1,8 +1,12 @@
-Lonely Valley is a 7 Days to Die multiplayer server dedicated to PvE play. 
+Lonely Valley is a 7 Days to Die multiplayer server dedicated to PvE play. It is hosted on a dedicated server in [Online.net](https://online.net/en) [DC3 datacentre](https://www.scaleway.com/en/pdf/scaleway-dc3.pdf) near Paris, France. Fast connectivity, octa-core processor and a large RAM allocation helps to maintain a pleasant gaming experience.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The server has a variety of mods and facilities keeping the game experience tuned to the needs of PvE players. It is designated as a **Quiet Server** where the players respect each others right to play without interference.  
 
-### Markdown
+## Server Rules
+
+The rules described below must be followed by every player. We try to maintain a pleasant gaming environment for everyone, without the need for constant intrusive moderation. This means that any failure to adhere to Server Rules will result in a ban. Please remember this and do not complain when the hammer lands on you.
+
+### Behaviour Rules
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
