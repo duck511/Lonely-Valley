@@ -1,5 +1,3 @@
-# Welcome to the Lonely Valley
-
 Lonely Valley is a 7 Days to Die multiplayer server dedicated to PvE play. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
