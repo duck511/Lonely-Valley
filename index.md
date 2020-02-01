@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+# Welcome to the Lonely Valley
 
-You can use the [editor on GitHub](https://github.com/duck511/lonely_valley/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Lonely Valley is a 7 Days to Die multiplayer server dedicated to PvE play. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
