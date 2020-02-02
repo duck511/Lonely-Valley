@@ -38,3 +38,6 @@ Due to the potential for abuse, all explosive block base damage has been set to 
 Lonely Valley has all the main cities included in **reset zones**. Anything built or modified in such a zone will be cleared during reset. Quest POIs are similarly protected.
 
 Cars, trees, rocks and boulders will all re-spawn, there is no need to plant forests or worry about the availability of materials.
+
+[Back to Home](./index.md)
+
