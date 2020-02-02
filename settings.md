@@ -3,15 +3,15 @@
 Lonely Valley PvE is a modded server, with several changes making the game more user friendly in a PvE scenario. Further below, you will find description of these modifications and the effect they have on the gameplay.
 
 ## Key Parameters
-**Server version: Alpha 18.3 (b4) Compatibility Version: Alpha 18.3**
-**Dedicated server only build**
-Server IP:   163.172.22.3
-Server port: 10100
-Max players: 19
-Game mode:   GameModeSurvival
-World:       PREGEN02
-Game name:   Start
-Difficulty:  4
+- **Server version: Alpha 18.3 (b4) Compatibility Version: Alpha 18.3**
+- **Dedicated server only build**
+- Server IP:   163.172.22.3
+- Server port: 10100
+- Max players: 19
+- Game mode:   GameModeSurvival
+- World:       PREGEN02
+- Game name:   Start
+- Difficulty:  4
 
 ## Starting Out
 When you first join the server you will find a quality 6 pistol and 20 of 9mm ammo in your backpack. Make sure you keep the last bullet for yourself. 
