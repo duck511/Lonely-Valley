@@ -22,12 +22,13 @@ The rules described below must be followed by every player. We try to maintain a
 5. No chat moderation unless you are a designated moderator. Please report the player on Discord instead.
 
 ### Building
-1. Do not build on or claim any POIs. Treat them in the same way as you would a player base. Hide on the roof if you wish but understand that other players may want to use it too. Move at least 70 blocks away from the POI in order to stake your claim.
+1. Do not build on or claim any POIs. Don't place your bedroll in or around POIs. Treat them in the same way as you would a player base. Hide on the roof if you wish but understand that other players may want to use it too. Move at least 70 blocks away from the POI in order to place your bedroll or stake your claim.
 2. Do not touch the roads, they are there for everyone.
 3. Do not drop more than a few blocks, and particularly no drop mining.
-4. Make sure you don't have more that 6 trees per LCB.
+4. Make sure you don't have more that 6 trees per LCB. Do not plant forests, mother nature will take care of this.
 5. Have no more than 3 each of forges, campfires, workbenches, chemstations per base.
 6. Do not build in reset zones, you will lose everything at the next reset.
+7. Do not play around with water too much, we don't like cleaning up after you.
 
 ## Support or Contact
 Have a question of wish to report a problem? Drop us a message on [Discord](https://discord.gg/3774Dhe) and we’ll help you sort it out.
