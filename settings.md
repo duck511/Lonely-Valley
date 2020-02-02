@@ -14,7 +14,7 @@ Lonely Valley PvE is a modded server, with several changes making the game more 
 - Difficulty:  4
 
 ## Starting Out
-When you first join the server you will find a quality 6 pistol and 20 of 9mm ammo in your backpack. Make sure you keep the last bullet for yourself. 
+When you first join the server, you will find a quality 6 pistol and 20 of 9mm ammo in your backpack. Make sure you keep the last bullet for yourself. 
 
 Night time starts at 22:00 and finishes at 04:00. Try to find a trader during daytime, you can hide in the trading outpost all night. They will kick you out at midday to clean the rooms etc, so you can say hello to the undead gathered around the perimeter. 
 
