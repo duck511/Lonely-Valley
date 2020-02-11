@@ -12,7 +12,7 @@ The rules described below must be followed by every player. We try to maintain a
 
 3. **You must respect the right of other players to enjoy the game**. Please refrain from placing loudspeakers/sirens unless you are far, far away from anybody else. Do not spam the Global chat with your one-to-one conversations, create a party and invite a few people to it if you wish to talk at length. Do not stalk other players unless you were invited.
 
-4. **Do not abuse glitches, bug, cheats or admin tools.** Any benefit obtained through these must be surrendered immediately, and any damage must be immediately rectified.
+4. **Do not abuse glitches, bugs, cheats or admin tools.** Any benefit obtained through these must be surrendered immediately, and any damage must be immediately rectified.
 
 ### Chat
 1. No 18+ words or conversations.
