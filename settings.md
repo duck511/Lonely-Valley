@@ -18,7 +18,7 @@ When you first join the server, you will find a quality 6 pistol and 20 of 9mm a
 
 Night time starts at 22:00 and finishes at 04:00. Try to find a trader during daytime, you can hide in the trading outpost all night. They will kick you out at midday to clean the rooms etc, so you can say hello to the undead gathered around the perimeter. 
 
-There is no lobby in this game, this is a battle for survival after all.
+You can visit a game lobby if you wish, type /lobby in chat. The lobby has traders, vending machines, workbenches, forges etc for public use. 
 
 ## Backpack
 The size of the backpack on this server is set to 50!! Stack sizes are 20000 for blocks and 1000 for all other items.
