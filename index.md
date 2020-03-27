@@ -1,4 +1,4 @@
-Lonely Valley is a 7 Days to Die multiplayer server dedicated to PvE play. It is hosted on a dedicated server in [Online.net](https://online.net/en) datacentre [DC3](https://www.scaleway.com/en/pdf/scaleway-dc3.pdf) near Paris, France. Fast connectivity, octa-core processor and a large RAM allocation helps to maintain a pleasant gaming experience.
+Lonely Valley is a 7 Days to Die multiplayer server dedicated to PvE play. It is hosted on a high-end dedicated server in [Scaleway](https://www.scaleway.com/en/dedibox/) datacentre [DC3](https://www.scaleway.com/en/pdf/scaleway-dc3.pdf) near Paris, France. Fast connectivity, octa-core processor and a large RAM allocation helps to maintain a pleasant gaming experience.
 
 The server has a variety of mods and facilities keeping the game experience tuned to the needs of PvE players. It is designated as a **Quiet Server** where the players respect each others right to play without interference. Find out more about server [settings and mods](./settings.md), learn the [commands](./commands.md) or get in touch on [Discord](https://discord.gg/3774Dhe).
 
