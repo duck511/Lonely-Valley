@@ -4,7 +4,7 @@ The server has a variety of mods and facilities keeping the game experience tune
 
 > **Latest news.** 
 > 
-> The vehicles are now working. Try them out while they are on 80% discount sale in the lobby. Please report any problems on Discord.
+> The vehicles are now working. Try them out while they are on sale in the lobby. Please report any problems on Discord.
 
 ## Server Rules
 The rules described below must be followed by every player. We try to maintain a pleasant gaming environment for everyone, without the need for constant intrusive moderation. This means that any failure to adhere to Server Rules will result in a ban.  The decision to exclude a player rests with the server owner and admins, and cannot be disputed. Please remember this and do not complain when the hammer lands on you.
