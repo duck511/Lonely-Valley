@@ -2,9 +2,7 @@ Lonely Valley is a 7 Days to Die multiplayer server dedicated to PvE play. It is
 
 The server has a variety of mods and facilities keeping the game experience tuned to the needs of PvE players. It is designated as a **Quiet Server** where the players respect each others right to play without interference. Find out more about server [settings and mods](./settings.md), learn the [commands](./commands.md) or get in touch on [Discord](https://discord.gg/3774Dhe).
 
-> **Latest news.** 
-> 
-> The vehicles are now working. Try them out while they are on sale in the lobby. Please report any problems on Discord.
+> **Latest news.** The vehicles are now working. Try them out while they are on sale in the lobby. Please report any problems on Discord.
 
 ## Server Rules
 The rules described below must be followed by every player. We try to maintain a pleasant gaming environment for everyone, without the need for constant intrusive moderation. This means that any failure to adhere to Server Rules will result in a ban.  The decision to exclude a player rests with the server owner and admins, and cannot be disputed. Please remember this and do not complain when the hammer lands on you.
